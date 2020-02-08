@@ -1,0 +1,8 @@
+{
+  "name": "@rado-jedro/node-random-id-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rado-jedro/node-random-id-generator.git",
+  "author": "Rado Jedro <radoslaw.jedro@gmail.com>",
+  "license": "MIT"
+}
